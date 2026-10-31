@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvvWwsiul9s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Escritorio\\tareasxd\\Progra Web\\ProyectoQ4Backend760\\ProyectoQ4Backend760\\ProyectoQ4Backend760.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
